@@ -1,0 +1,5 @@
+{
+  "name": "ItinerateAI",
+  "description": "An AI-powered trip planner that generates hyper-personalized itineraries. Users can input their destination, budget, travel style, and interests to receive a detailed, day-by-day plan crafted by AI agents.",
+  "requestFramePermissions": []
+}
